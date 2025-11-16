@@ -1,0 +1,7 @@
+[build]
+publish ="dist/project1"
+
+[[redirects]]
+from="/*"
+to="index.html"
+status=200
